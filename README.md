@@ -1,2 +1,4 @@
 # todoList
-Repository of todoLists
+Repository of practice todo lists.
+
+See branches for examples.
